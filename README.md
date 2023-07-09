@@ -1,4 +1,4 @@
-Make the readme file with this code.
+Create a self-service cashier system
 
 class Transaction:
     """
